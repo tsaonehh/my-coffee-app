@@ -1,12 +1,32 @@
 h1{
-    font-size: 42px;
+    font-size: 36px;
+    line-height: 1.5;
     text-align: center;
 }
 
+h2{
+    font-size: 40px;
+    line-height: 0;
+}
+
+h4{
+    font-weight: 400;
+}
+
+p{
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+}
+
 .hero{
-    background: #f9f7fe;
+    background: #000;
     text-align: center;
     padding: 80px 20px;
+}
+
+.hero h1{
+    color: #fff;
 }
 
 nav{
@@ -31,6 +51,10 @@ nav a{
     transition: all 100ms  ease-in-out;
 }
 
+nav a:hover, nav li.active a{
+    color: rgb(233, 199, 204);
+}
+
 .btn-branding{
     background: rgb(233, 199, 204);
     border-radius: 4px;
@@ -48,6 +72,29 @@ nav a{
     font-size: 18px;
     line-height: 27px;
     padding: 15px 30px; 
+}
+
+.project-description{
+    padding: 120px 60px;
+}
+
+
+footer{
+    margin: 80px 0;
+}
+
+footer .contact-box{
+    background: #000;
+    padding: 30px 120px;
+    border-radius: 10px;
+}
+
+footer h4{
+    color: #fff;
+}
+
+footer .btn-branding-outline{
+    color: #fff;
 }
 
  
