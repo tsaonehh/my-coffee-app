@@ -8,7 +8,9 @@ area and I will be showing aesthetics
 as well because that's very important
 to me. 
 Afterall we taste with our eyes
-first. This app also makes use of
+first. 
+I will also include some reviews so you know where to get the best of the best.
+This app also makes use of
 multiple pages and navbars which always
 make an app to look more sophisticated.
 This is also for all coffee lovers out there.
