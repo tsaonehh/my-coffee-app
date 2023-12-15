@@ -1,6 +1,6 @@
 # my-coffee-app
 This is an HTML focused app, 
-with a bit of CSS for style.
+with a bit of CSS for style of course.
 Because I love coffee so much, especially
 iced-coffee, I decided to work on 
 an app with all coffee places in my
