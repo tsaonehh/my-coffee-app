@@ -5,8 +5,7 @@ Because I love coffee so much, especially
 iced-coffee, I decided to work on 
 this app with all coffee places in my
 area and I will be showing aesthetics
-as well because that's very important
-to me. 
+as well because that's very important to me. 
 Afterall we taste with our eyes
 first. 
 I will also include some reviews so you know where to get the best of the best.
