@@ -3,7 +3,7 @@ This is an HTML focused app,
 with a bit of CSS for style.
 Because I love coffee so much, especially
 iced-coffee, I decided to work on 
-this app with all coffee places in my
+this app to add all coffee places in my
 area and I will be showing aesthetics
 as well because that's very 
 important to me. 
