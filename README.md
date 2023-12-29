@@ -9,7 +9,9 @@ as well because that's very
 important to me. 
 Afterall we taste with our eyes
 first. 
-I will also include some reviews and contacts so you know where to get the best of the best.
+I will also include some reviews 
+and contacts so you know where 
+to get the best of the best.
 This app also makes use of
 multiple pages and navbars which always
 make an app to look more sophisticated.
