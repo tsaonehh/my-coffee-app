@@ -15,4 +15,5 @@ to get the best of the best.
 This app also makes use of
 multiple pages and navbars which always
 make an app to look more sophisticated.
-This is also for all coffee lovers out there - a worthy list!
+This is also for all coffee lovers 
+out there - a worthy list!
